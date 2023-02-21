@@ -73,6 +73,7 @@ nav{
     height: 100px;
     display: flex;
     justify-content: center;
+    background-color: #fff;
     padding: 10px 350px;
     border-bottom: 1px solid #ccc;
 }
@@ -114,7 +115,7 @@ body{
 }
 
 .BestDeals-Container{
-    height: 380px;
+    height: 375px;
     display: flex;
     justify-content: center;
     
@@ -244,8 +245,8 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 2%;
-    margin-left: 1%;
-    margin-right: 1%;
+    margin-left: 1.26%;
+    margin-right: 1.26%;
     background-color: white;
 }
 
